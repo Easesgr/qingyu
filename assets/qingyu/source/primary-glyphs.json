@@ -1,0 +1,15 @@
+{
+  "provider": "AnyiOS",
+  "profile_id": "d7e83841401e474f8edc534a6f3ebd94",
+  "profile_name": "Sub2API ChatGPT Free",
+  "model": "gpt-image-2",
+  "request_mode": "chatgpt_web",
+  "prompt": "Use case: logo-brand. Production icon sprite atlas for Qingyu 轻屿, a polished macOS utility. Exactly FOUR columns and FOUR rows, 16 equal square cells, square overall image, uniform pure white background. No grid lines and absolutely no text or labels. In every cell, draw exactly ONE centered solid black simple glyph, with matching 2-point rounded monoline strokes and optical weight like premium macOS symbols. Each glyph fits in the central 60% of its cell, with generous identical margins. Flat 2D, no gray, no color, no shadows, no tiles. Precise order row by row, left to right: row 1: musical double eighth note; open storage tray with one floating sheet; checklist with two check marks; envelope. Row 2: AI quota as microchip with a tiny gauge; calendar with two binding rings and three dots; sun partly behind a cloud; settings gear. Row 3: four equal navigation squares; monitor with a tiny handle at its right edge; play triangle; two pause bars. Row 4: previous track triangle with vertical bar; next track triangle with vertical bar; speaker with two sound waves; muted speaker with diagonal slash. Make every silhouette uniquely recognizable at 16 pixels. Keep exact 4 by 4 alignment, do not add any extra symbols, separators or titles. This is an atlas to crop into real UI icons, not a presentation.",
+  "width": 1254,
+  "height": 1254,
+  "latency_ms": 25667,
+  "requested_size": "auto",
+  "resolution": "auto",
+  "file": "primary-glyphs.png",
+  "sha256": "c17b3d2a11eda0b1aee9339064f883ea8450dffc279865df0d819699d274199b"
+}

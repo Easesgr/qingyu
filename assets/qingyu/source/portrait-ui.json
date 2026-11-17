@@ -1,0 +1,15 @@
+{
+  "provider": "AnyiOS",
+  "profile_id": "d7e83841401e474f8edc534a6f3ebd94",
+  "profile_name": "Sub2API ChatGPT Free",
+  "model": "gpt-image-2",
+  "request_mode": "chatgpt_web",
+  "prompt": "Use case: ui-mockup. Production design reference for 轻屿 / Qingyu, a native macOS screen-edge utility with exactly FIVE tools: 音乐, 置物架, 待办, 邮箱, 天气. No calendar, AI quota, mascot, focus timer, About, support or donation features. On a calm pale ivory desktop, show one slender PORTRAIT floating panel docked to the RIGHT screen edge, 280 points wide and 500 points tall. Show a second small collapsed 6-point by 52-point edge handle to explain its scale. The expanded panel grows UP AND DOWN along the screen edge. Its height is clearly greater than its width; never a horizontal wide card, never a rotated screenshot. Left and right docking both use this vertical composition. Restrained ink-teal translucent panel with subtle border, soft native shadow, excellent white text contrast. At top: small geometric two-plane brand mark, 轻屿, time, settings button. Below: compact icon navigation for exactly the five tools, each readable and accessible. Main music view has a large centered square album cover, clear title and artist underneath, a full-width progress slider, centered previous/play/next buttons, volume slider, and concise player status at bottom. Everything is genuinely vertically stacked with generous but compact spacing. Use coherent rounded geometric glyphs, SF/PingFang typography, Apple HIG. Album art is an abstract ocean plane in mineral teal, no person. Also show a smaller settings window beside it with a native title bar, left sidebar labels 外观与位置, 页面管理 and the five tools. Selected placement reads 右侧 · 竖向展开. Clear hierarchy and real macOS controls; no excessive glass, colored decorative cards or marketing copy. No other app names, no Apple logo, no watermark.",
+  "width": 1536,
+  "height": 1024,
+  "latency_ms": 38235,
+  "requested_size": "auto",
+  "resolution": "auto",
+  "file": "portrait-ui.png",
+  "sha256": "66ed8d03ca97bd0f17bb306af355f9ab4ef68a1a9448087d2fa04f4cf9a734b1"
+}

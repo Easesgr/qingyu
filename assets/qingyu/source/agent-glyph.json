@@ -1,0 +1,6 @@
+{
+  "source": "Original Qingyu vector geometry, rasterized locally with Python standard library",
+  "prompt": "Terminal outline with a prompt chevron and underscore; white monochrome strokes on transparent background, matching Qingyu navigation weight",
+  "license": "MIT",
+  "output": "assets/qingyu/glyphs/agent.png"
+}

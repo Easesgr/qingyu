@@ -1,0 +1,116 @@
+{
+  "provider": "AnyiOS Media MCP",
+  "tool": "anyios_generate_images",
+  "configuration": {
+    "profile_id": "d7e83841401e474f8edc534a6f3ebd94",
+    "model": "gpt-image-2",
+    "resolution": "auto"
+  },
+  "reference": "source/reference.png",
+  "assets": [
+    {
+      "file": "pet-expressions.png",
+      "prompt": "Generate a production TRANSPARENT PNG facial-expression sprite sheet for a tiny desktop pet avatar. Image 1 is the character identity reference. Draw ONLY this tan round-eared character's HEAD, preserving its warm golden fur, large brown oval muzzle, tiny dark nose and vertical mouth line, rosy cheeks, sleepy charming expression and simple rounded hand-drawn 2D sticker style. Regenerate clean artwork; do not include any body, arms, hands, keyboard or blue background. Exactly TWO columns and TWO rows: four equal square cells. Each cell contains the SAME front-facing head, at the identical size, position, outline and neutral head angle; change only facial expression. Top-left: calm relaxed sleepy eyes and neutral little mouth. Top-right: a gentle blink, eyes softly fully closed. Bottom-left: delighted closed crescent eyes and a tiny warm smile, pink cheeks. Bottom-right: curious, slightly open small dark eyes and a tiny surprised mouth. Keep the reference identity immediately recognizable; no cat redesign, no new costume or accessories. Rounded clean brown contour, warm flat softly shaded colors, no realistic fur. Isolated heads centered in their cells, each head occupying about 80% of cell width, identical transparent margins. NO labels, numbers, grid lines, tiles, checkerboard drawing, glow, floor shadow, text or watermark. True alpha transparency throughout the background. This sheet will be sampled as four avatar poses at 28 logical points, so use a bold clear face and stable silhouette.",
+      "width": 1254,
+      "height": 1254,
+      "has_transparency": true,
+      "sha256": "78d7f30ad1ec10b8896375260a6a352611fdcc2de84fa8b4beef80babe2b57a7"
+    },
+    {
+      "file": "codex-runner.png",
+      "prompt": "Generate a production TRANSPARENT PNG animation sprite sheet for a tiny cute running coworker in a polished macOS utility. Exactly FOUR columns and TWO rows: 8 equal square cells, read left to right then top to bottom. Each cell is one successive frame of the SAME small charming 3D clay-like person jogging in place toward the right, three-quarter side view. Friendly round oversized pearl-ivory head, tiny dark teal eyes, soft mint short rounded jacket, stubby ivory arms and legs, tiny navy rounded shoes. Compact proportions and smooth soft materials, premium emoji-like craft. A real rounded little person, never a stick figure or thin line icon; no antenna, robot helmet or equipment. Consistent camera, scale, lighting, silhouette volume, ground baseline and cell center in every frame. Eight evenly spaced phases of a seamless gentle jog loop, alternating bent knees, softly pumping bent arms, slight head bob. First frame is the relaxed planted step that can also read as an idle pose. Each figure fills only the center 65% width and 82% height of its square cell, with safe transparent spacing. Designed to remain clear at 17–20 logical pixels tall on either a dark teal or a pale toolbar. No floor, background, shadow outside the figure, labels, numbers, borders, grid lines, tiles, motion trails, text or watermark. Real alpha transparency, not a painted checkerboard.",
+      "width": 1536,
+      "height": 1024,
+      "has_transparency": true,
+      "sha256": "2beddf0a3323b2839380bfe1f8ed640b9fcb525e022c6ad4754e2fd747b0c269",
+      "runtime_status": "retired; retained as source-generation provenance only",
+      "retired_reason": "Agent companions now use floating pet-head artwork without humanoid bodies"
+    },
+    {
+      "file": "agent-pet-heads.png",
+      "prompt": "Create a production TRANSPARENT PNG sprite atlas of SIX cute pet HEADS in exactly THREE columns and TWO rows of equal square cells. The supplied image is a STYLE reference: rounded hand-drawn 2D sticker art, clean warm brown outlines, soft shading, cheek blush, simple sleepy charming eyes, chunky facial features readable at tiny sizes. Match that polished visual world closely. Draw HEADS ONLY: these will be attached to animated little humanoid bodies by the application, so NO body or limbs in this atlas. Each head faces front, level and centered, fills 80% of its own cell, and has safe transparent padding. No detached decorative elements. Each pet must be immediately identifiable by silhouette rather than color alone.\nTop-left: a warm coral-orange FOX with pointed ears, wide cream cheek tufts and small dark oval nose.\nTop-middle: a golden HONEY PUPPY with soft floppy ears, light tan muzzle, and friendly calm expression.\nTop-right: a soft LILAC BUNNY with TWO upright long rounded ears, cream muzzle, tiny nose, rosy cheeks.\nBottom-left: a round black-and-ivory PANDA with clearly round black ears, gentle black eye patches and tiny nose.\nBottom-middle: a slate-gray KITTEN with triangular ears, pale muzzle and just two short whisker marks on either side.\nBottom-right: a soft moss-MINT FROG with two round eyes sitting on the top of its head, cream lower face and gentle smile.\nUse consistent illustration detail, facial feature size and visual weight across the six pets. No clothing, hats, accessories, letters, words, labels, cell borders, grid lines, background scenes, floor shadows, halos, realistic fur, 3D clay, photographic texture, checkerboard pattern or watermark. True alpha transparency throughout the background. Exact 3 by 2 layout, only one complete head in each cell, none cropped or touching neighboring cells.",
+      "reference": "pet-expressions.png, top-left neutral pose",
+      "width": 1152,
+      "height": 768,
+      "has_transparency": true,
+      "sha256": "ff4b3ddacf56af3e61f38b7217c1fc8f799000290140c387494687060a470eb0",
+      "runtime_usage": "Pet heads are rendered alone with per-agent floating, tilt, and squash animation; no body is composited.",
+      "cells": {
+        "Claude": [
+          0,
+          0
+        ],
+        "Hermes": [
+          1,
+          0
+        ],
+        "Gemini": [
+          2,
+          0
+        ],
+        "OpenCode": [
+          0,
+          1
+        ],
+        "Cursor": [
+          1,
+          1
+        ],
+        "Aider": [
+          2,
+          1
+        ]
+      },
+      "animation": "One transparent pet head per agent with native floating, tilt and squash motion. Reduced motion fixes the head in place; no body is drawn.",
+      "source": "source/agent-pet-heads-anyios.png",
+      "processing": "Isolated six full alpha silhouettes; centered each in equal 384px cells with safe padding. No new artwork synthesized by postprocessing.",
+      "silhouette_bounds": [
+        [
+          14,
+          57,
+          509,
+          483
+        ],
+        [
+          505,
+          109,
+          1042,
+          474
+        ],
+        [
+          1067,
+          15,
+          1488,
+          487
+        ],
+        [
+          32,
+          550,
+          500,
+          955
+        ],
+        [
+          556,
+          542,
+          1019,
+          954
+        ],
+        [
+          1049,
+          563,
+          1522,
+          958
+        ]
+      ]
+    }
+  ],
+  "pet_names": {
+    "tan": "团团",
+    "fox": "小狐",
+    "puppy": "布丁",
+    "bunny": "绵绵",
+    "panda": "饭团",
+    "kitten": "芝麻",
+    "frog": "青豆"
+  }
+}

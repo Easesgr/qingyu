@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleIdentifier</key><string>com.qingyu.readme.showcase</string>
+<key>CFBundleName</key><string>Qingyu README</string>
+<key>CFBundleDisplayName</key><string>轻屿截图</string>
+<key>CFBundleExecutable</key><string>readme-showcase</string>
+<key>CFBundlePackageType</key><string>APPL</string>
+<key>NSHighResolutionCapable</key><true/>
+</dict></plist>

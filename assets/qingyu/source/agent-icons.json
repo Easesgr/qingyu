@@ -1,0 +1,78 @@
+{
+  "upstream": "https://github.com/lobehub/lobe-icons",
+  "license": "MIT",
+  "assets": {
+    "codex": {
+      "upstreamPackage": "@lobehub/icons-static-png",
+      "version": "1.95.0",
+      "source": "package/dark/openai.png",
+      "license": "MIT",
+      "sha256": "375016542ebe78b63c7f36b8f6aee3058f2b706d861e5153fd74f9c27f63b8b7",
+      "size": [
+        640,
+        640
+      ],
+      "purpose": "Identify the corresponding local agent in task lists and status notifications"
+    },
+    "claude": {
+      "upstreamPackage": "@lobehub/icons-static-png",
+      "version": "1.95.0",
+      "source": "package/dark/claude-color.png",
+      "license": "MIT",
+      "sha256": "97b53fb85b3bf401ffeb8ee7c5ebad734ce9f6edc3038f242021c53bcc18e23d",
+      "size": [
+        640,
+        640
+      ],
+      "purpose": "Identify the corresponding local agent in task lists and status notifications"
+    },
+    "hermes": {
+      "upstreamPackage": "@lobehub/icons-static-png",
+      "version": "1.95.0",
+      "source": "package/dark/hermesagent.png",
+      "license": "MIT",
+      "sha256": "c4e083a6ddda25f3ffbc74a4754cef020677f73ed324ec46a4c801e1f472767d",
+      "size": [
+        640,
+        640
+      ],
+      "purpose": "Identify the corresponding local agent in task lists and status notifications"
+    },
+    "gemini": {
+      "upstreamPackage": "@lobehub/icons-static-png",
+      "version": "1.95.0",
+      "source": "package/dark/geminicli-color.png",
+      "license": "MIT",
+      "sha256": "ef72d48ebab74c96296d34c8ad5d87685f90765d21f31d0884049bb45a8b62e5",
+      "size": [
+        640,
+        640
+      ],
+      "purpose": "Identify the corresponding local agent in task lists and status notifications"
+    },
+    "opencode": {
+      "upstreamPackage": "@lobehub/icons-static-png",
+      "version": "1.95.0",
+      "source": "package/dark/opencode.png",
+      "license": "MIT",
+      "sha256": "017ff9bc277303d042baa12017be114f876b045260603528f5a7beedfdd6c714",
+      "size": [
+        640,
+        640
+      ],
+      "purpose": "Identify the corresponding local agent in task lists and status notifications"
+    },
+    "cursor": {
+      "upstreamPackage": "@lobehub/icons-static-png",
+      "version": "1.95.0",
+      "source": "package/dark/cursor.png",
+      "license": "MIT",
+      "sha256": "1ac411d127a35bb2d287f39e3a4084ed1407884e52377a5cd9bda1a3ea7ef47b",
+      "size": [
+        640,
+        640
+      ],
+      "purpose": "Identify the corresponding local agent in task lists and status notifications"
+    }
+  }
+}

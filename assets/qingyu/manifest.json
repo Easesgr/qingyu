@@ -1,0 +1,288 @@
+{
+  "source": "AnyiOS image generation",
+  "derivation": "4×4 cell crop, luminance to alpha, optical size normalization",
+  "glyphs": {
+    "sun": {
+      "source": "weather-glyphs",
+      "cell": 0,
+      "sha256": "7ca3351048bc7496e45b044d6103a0ec9847e2c0ac135c9bf3cb307e93ce1a17"
+    },
+    "moon": {
+      "source": "weather-glyphs",
+      "cell": 1,
+      "sha256": "1acf173d4c0373fee90c3527c43e3f2907cc5c20728f943afe7d45c62c5c3e74"
+    },
+    "sun-cloud": {
+      "source": "weather-glyphs",
+      "cell": 2,
+      "sha256": "b13f5acb8d7f00077a6fa8457d61d385bb45d2d051aa808f461a3fc59673d268"
+    },
+    "moon-cloud": {
+      "source": "weather-glyphs",
+      "cell": 3,
+      "sha256": "3dfb7c117d949bf8f86f6bfb8182b85eb197efcfe1bb7e1ca1cd5f358fce8a80"
+    },
+    "cloud": {
+      "source": "weather-glyphs",
+      "cell": 4,
+      "sha256": "e34683b2d27786d4e9479168bb77672b05821eaaf3fba6431e09435622dddde0"
+    },
+    "overcast": {
+      "source": "weather-glyphs",
+      "cell": 5,
+      "sha256": "142dd6c5a0e23c5c95b253034e4fc3e1c0838c3e9dc4c4b318c1a8172837e526"
+    },
+    "rain": {
+      "source": "weather-glyphs",
+      "cell": 6,
+      "sha256": "ef2c4a9f11eddf9e44337dc374b81de4a73a28ebb6cd54565d028ca1b1d2b811"
+    },
+    "drizzle": {
+      "source": "weather-glyphs",
+      "cell": 7,
+      "sha256": "37547cfff80b6243e4aa6eacd37115979490326ef950b35004cd478b8b23127c"
+    },
+    "snow": {
+      "source": "weather-glyphs",
+      "cell": 8,
+      "sha256": "f8e5cb8126c962733e11891a6aeac83ad3978adfaf740295028a76424fcac585"
+    },
+    "thunder": {
+      "source": "weather-glyphs",
+      "cell": 9,
+      "sha256": "915639023f65ff18cd50bfe19afdba5da89dbc8bb44cec2c1644ee0cd302c7a9"
+    },
+    "fog": {
+      "source": "weather-glyphs",
+      "cell": 10,
+      "sha256": "e44015bf7e01fa1a846a6e4ff439230e4d0619e4cfff8d867ac0e376047fe3f5"
+    },
+    "wind": {
+      "source": "weather-glyphs",
+      "cell": 11,
+      "sha256": "dc5400ec7d61f3173ad3b6f48167cdeff79efef38bec1ffed4ef02ecb14785d2"
+    },
+    "temperature": {
+      "source": "weather-glyphs",
+      "cell": 12,
+      "sha256": "633e90fd569f54e78a140185c606f479126fe9fa2e7bfd70179d62ec2aeb38ee"
+    },
+    "humidity": {
+      "source": "weather-glyphs",
+      "cell": 13,
+      "sha256": "e5702cfd8148284bcfd28486819180fae88056f26933f66e0e2a9bb03b8945ba"
+    },
+    "clock": {
+      "source": "weather-glyphs",
+      "cell": 14,
+      "sha256": "5f88bbf946b0d5c9ac842efc26c36f87e3c1781ad887dafbfea913b0239de6fb"
+    },
+    "bell": {
+      "source": "weather-glyphs",
+      "cell": 15,
+      "sha256": "aa75ae3661b28ec9e2e3833a207b08c674ef450f47263c98f1164c1f134276c0"
+    },
+    "music": {
+      "source": "primary-glyphs",
+      "cell": 0,
+      "sha256": "68d2d6d26634aad4c8bc335dc3e591c90703aca140ea1ee7c02e6b293b71cc92"
+    },
+    "shelf": {
+      "source": "primary-glyphs",
+      "cell": 1,
+      "sha256": "5ef4b427d455411ad8bd9bbcb9acd556162ef9ef9f05386205be60b03f3a2289"
+    },
+    "todo": {
+      "source": "primary-glyphs",
+      "cell": 2,
+      "sha256": "caa8153302d8d7d13c1a7e2ec197d071c96292dd3d618e53fc27d29acdbb377b"
+    },
+    "mail": {
+      "source": "primary-glyphs",
+      "cell": 3,
+      "sha256": "8b54ce0be82a4c4ad90bd735e59be05aa4b4e9fc02a4d644b6ec115b4d1bdd6d"
+    },
+    "weather": {
+      "source": "primary-glyphs",
+      "cell": 6,
+      "sha256": "c2914c56261911d4a7aeb11ca31513bfe9873f0281e3b8b6fee6eea95df8ea53"
+    },
+    "settings": {
+      "source": "primary-glyphs",
+      "cell": 7,
+      "sha256": "95a77c7fbdc93b58a4718dbcf9704d218175efa17fbe0be2a88ba519aac2b556"
+    },
+    "pages": {
+      "source": "primary-glyphs",
+      "cell": 8,
+      "sha256": "35b8d0306545c191ff64cb73fb672b3abad78f66a52f8a7a356c7fe1aaac57dc"
+    },
+    "placement": {
+      "source": "primary-glyphs",
+      "cell": 9,
+      "sha256": "fe5c8edd0a82c87b1fd676fe662f114cf822080205a342e910e4188169f53994"
+    },
+    "play": {
+      "source": "primary-glyphs",
+      "cell": 10,
+      "sha256": "32e49bf651a5d3bc31cf5505f522d53f0ff3f69abd8ff4231c3144f1aab343e3"
+    },
+    "pause": {
+      "source": "primary-glyphs",
+      "cell": 11,
+      "sha256": "413baf03b60d36882190af82fd15bcaef3cb4e635a11f0144d6929938aeca200"
+    },
+    "previous": {
+      "source": "primary-glyphs",
+      "cell": 12,
+      "sha256": "a3d8bb7d38cbf413a20fc60a372728ad5500110d45ab14bae5b24ac19ec1b587"
+    },
+    "next": {
+      "source": "primary-glyphs",
+      "cell": 13,
+      "sha256": "82f207abd1add4e7823f3e261c95df9f97247e0cb02dad3e940db5d73b8b1dab"
+    },
+    "volume": {
+      "source": "primary-glyphs",
+      "cell": 14,
+      "sha256": "7f8d827605de73ffdea39df207c7d0a4afecc0a2c88a9b187214a1cb18b961f3"
+    },
+    "mute": {
+      "source": "primary-glyphs",
+      "cell": 15,
+      "sha256": "810fc2d5715bc5072b88b60efe82baff6e0b146b15d8daeee6f987db047b2e78"
+    },
+    "close": {
+      "source": "utility-glyphs",
+      "cell": 0,
+      "sha256": "f0f7fc0fadaac1db9a3b691ff43509c778acedd4fcedd3a82f174648cffdf233"
+    },
+    "left": {
+      "source": "utility-glyphs",
+      "cell": 1,
+      "sha256": "ed12b536170459e9e90250ef920fbe9dab8aeae88ac6d53bb24ce1f0efd563eb"
+    },
+    "right": {
+      "source": "utility-glyphs",
+      "cell": 2,
+      "sha256": "f55526a0ec65375507ba42cade055f2653b48308a544622f4b995f49b37c1469"
+    },
+    "plus": {
+      "source": "utility-glyphs",
+      "cell": 3,
+      "sha256": "638e280f9b3cb29b571da8d4df2b4d1ae4040685914e402506eafb32cfc7f44f"
+    },
+    "check": {
+      "source": "utility-glyphs",
+      "cell": 4,
+      "sha256": "962a9b226c7f54486382bfc0e10292d9a3ba845bf0fa397cab11636020431221"
+    },
+    "pencil": {
+      "source": "utility-glyphs",
+      "cell": 5,
+      "sha256": "d4bd1e64f70da8bcde6fee63003437b5305ab1149e01f6e12c4e892d7de5c2ee"
+    },
+    "refresh": {
+      "source": "utility-glyphs",
+      "cell": 6,
+      "sha256": "7cfefd03d3f22986cd8a68dff112c8ce428544527e695ce2fefb30d10d4082dc"
+    },
+    "pin": {
+      "source": "utility-glyphs",
+      "cell": 7,
+      "sha256": "eb7a64b66658ac47cb1de73bc894ec5507cc29f2e4143b76ec98bb979ffa4379"
+    },
+    "clipboard": {
+      "source": "utility-glyphs",
+      "cell": 8,
+      "sha256": "5a489ee77b34787380760b18621aeb479183ac6536f71dc21fc1204048d645f8"
+    },
+    "search": {
+      "source": "utility-glyphs",
+      "cell": 9,
+      "sha256": "378f1f282df98ba83aa799225e64b12d12cdc15ff4ab13a67e5e588fc89353cf"
+    },
+    "folder": {
+      "source": "utility-glyphs",
+      "cell": 10,
+      "sha256": "2e4ea9da00a7d3215d97f9d2cb062774a0656e8ea2c2aeda41600debcd2c5fe1"
+    },
+    "file": {
+      "source": "utility-glyphs",
+      "cell": 11,
+      "sha256": "331b27dc5c1750dcabe5980313b006d98d0b79708198869db8f25d8f53c06f39"
+    },
+    "link": {
+      "source": "utility-glyphs",
+      "cell": 12,
+      "sha256": "ff993309691d7e38ed50ac63f1e606f112f847d8042cdfa068d973bf877ca6ab"
+    },
+    "trash": {
+      "source": "utility-glyphs",
+      "cell": 13,
+      "sha256": "662a897865a0981406351b54a8ceb5afd4fa8bd1e6b9f041b55ab6f8da77f5fc"
+    },
+    "download": {
+      "source": "utility-glyphs",
+      "cell": 14,
+      "sha256": "6e577658f8b15af9aad451c196069502d63233f22d40106daf3e8060f5428bab"
+    },
+    "expand": {
+      "source": "utility-glyphs",
+      "cell": 15,
+      "sha256": "59c5a7846354e97dada3bb34d7099355acc6c7847cd028c3d22896ce0d4c14e0"
+    },
+    "agent": {
+      "source": "agent-glyph.json",
+      "derivation": "original terminal vector geometry, 4x antialiasing",
+      "sha256": "cbad41b8f2bf1be3001bb42351d696e17525696c0e6aa44b1bcb00076dff23e2"
+    }
+  },
+  "derived_assets": {
+    "app-icon.png": "source/brand-logo-rounded.png; preserve generated alpha, trim faint edge haze, optical margins and resize",
+    "status-icon.png": "source/brand-logo-rounded.png; preserve generated alpha, trim faint edge haze, optical margins and resize",
+    "preview-wallpaper.png": "source/portrait-ui.png, lower left background crop",
+    "music-placeholder.png": "source/portrait-ui.png, square ocean artwork crop",
+    "brand-logo.png": "source/brand-logo-rounded.png; preserve generated alpha, trim faint edge haze, optical margins and resize",
+    "app-icon.ico": "source/brand-logo-rounded.png; preserve generated alpha, trim faint edge haze, optical margins and resize",
+    "brand-wordmark.png": "source/brand-wordmark-rounded.png; generated Chinese lettering alpha, haze removal, monochrome template and resize"
+  },
+  "brand": {
+    "provider": "AnyiOS",
+    "source_prompts": [
+      "source/brand-logo-rounded.json",
+      "source/brand-wordmark-rounded.json"
+    ],
+    "preparation": "scripts/prepare-qingyu-brand.py",
+    "assets": {
+      "brand-logo.png": {
+        "sha256": "ea823beb5b5ae8bd848771fde9a369cce0b5d39f207d3cd84369b9cc631ad493",
+        "size": [
+          512,
+          421
+        ]
+      },
+      "brand-wordmark.png": {
+        "sha256": "0a392aa6c08e109e72bf110e863382ddc1651161a8f509ba35e535d49e7b8fcd",
+        "size": [
+          768,
+          342
+        ]
+      },
+      "app-icon.png": {
+        "sha256": "557865909dc06182220ba311d278364ba0703f7124d5040cdcd943aadc65510f",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      "status-icon.png": {
+        "sha256": "4b1fa5644f9baf652d9cfef2f1ec4941d9cff721364477f3821656d3ed4f24da",
+        "size": [
+          36,
+          36
+        ]
+      }
+    }
+  }
+}

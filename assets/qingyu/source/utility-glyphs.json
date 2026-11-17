@@ -1,0 +1,15 @@
+{
+  "provider": "AnyiOS",
+  "profile_id": "d7e83841401e474f8edc534a6f3ebd94",
+  "profile_name": "Sub2API ChatGPT Free",
+  "model": "gpt-image-2",
+  "request_mode": "chatgpt_web",
+  "prompt": "Use case: logo-brand. Production monochrome utility icon sprite atlas for Qingyu 轻屿. Exactly FOUR columns and FOUR rows, 16 equal square cells, square overall image, uniform pure white background, no grid lines, no labels or text. One centered solid black glyph in each cell, matching premium macOS symbols, clean flat 2D geometry, consistent 2-point rounded monoline, uniform optical weight. Glyphs occupy only the central 60% of each cell. Exact row by row order: row 1: close X; left chevron; right chevron; plus. Row 2: check mark; diagonal pencil; circular refresh arrow; push pin. Row 3: clipboard with a top clip; search magnifying glass; folder; sheet of paper with folded corner. Row 4: chain link; trash bin; download arrow over a short horizontal line; two diagonal expand arrows. Pure black on pure white, no gray, no color, no shadows, no decorative tiles. Distinct shapes readable at 16 pixels. Maintain exact regular 4 by 4 cell centers. Do not add any other symbols. This is an atlas to crop into real UI icons, not a presentation.",
+  "width": 1254,
+  "height": 1254,
+  "latency_ms": 25074,
+  "requested_size": "auto",
+  "resolution": "auto",
+  "file": "utility-glyphs.png",
+  "sha256": "b89794c97ffb41f2c918cc0d2196a4da38b7d0a6b8737204a208f4419a54f869"
+}

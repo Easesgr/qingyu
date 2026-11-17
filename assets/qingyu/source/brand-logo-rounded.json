@@ -1,0 +1,15 @@
+{
+  "provider": "AnyiOS",
+  "profile_id": "d7e83841401e474f8edc534a6f3ebd94",
+  "profile_name": "Sub2API ChatGPT Free",
+  "model": "gpt-image-2",
+  "request_mode": "chatgpt_web",
+  "prompt": "Use case: logo-brand. Asset type: transparent brand emblem for 轻屿 / Qingyu, a native macOS screen-edge utility. Regenerate the identity as a friendly, soft, rounded geometric floating island: two gently curved lozenge planes, a pearl-white upper plane and an ocean-teal lower plane, separated by one clean transparent air gap. Make the planes plump and smooth like carefully shaped rounded pebbles, with a charming light lifted silhouette, softly rounded edges and very restrained material depth. Simple enough to recognize at 24 pixels. Calm polished Apple-compatible visual craft with a little warmth and cuteness, never a toy or mascot. Mineral cyan, pearl white and deep ocean teal. Single front-facing emblem, centered and large in a square frame with even transparent margins. Output a PNG with genuine transparent alpha background and a transparent gap. No square tile, no backing plate, no white rectangle, no painted checkerboard, no glow or cast shadow outside the emblem. No text, letters, faces, eyes, characters, Apple logo, landscapes, decorations or watermark. Output only the isolated rounded emblem.",
+  "width": 1254,
+  "height": 1254,
+  "latency_ms": 26528,
+  "requested_size": "auto",
+  "resolution": "auto",
+  "file": "brand-logo-rounded.png",
+  "sha256": "af48a4ae1004dec4568ad13dbfa96b3f9a80171bd54d86782951dc294bede132"
+}

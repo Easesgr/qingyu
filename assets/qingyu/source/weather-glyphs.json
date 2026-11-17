@@ -1,0 +1,15 @@
+{
+  "provider": "AnyiOS",
+  "profile_id": "d7e83841401e474f8edc534a6f3ebd94",
+  "profile_name": "Sub2API ChatGPT Free",
+  "model": "gpt-image-2",
+  "request_mode": "chatgpt_web",
+  "prompt": "Use case: logo-brand. Production monochrome weather and status icon sprite atlas for Qingyu 轻屿. Exactly FOUR columns and FOUR rows, 16 equal square cells, square overall image, uniform pure white background, no grid lines, no labels or text. One centered solid black glyph in each cell, matching premium macOS symbols, clean flat 2D geometry, consistent 2-point rounded monoline, uniform optical weight. Each occupies only the central 60% of its cell. Exact row by row order: row 1: sun with eight rays; crescent moon; sun partially behind a cloud; crescent partially behind a cloud. Row 2: simple cloud; two overlapping clouds; cloud with rain drops; cloud with three small drizzle drops. Row 3: snowflake; cloud with lightning bolt; three fog lines; three wind lines. Row 4: thermometer; single water droplet; small clock; notification bell. Pure black on pure white, no gray, no color, no shadows, no decorative tiles. Distinct shapes readable at 16 pixels. Maintain exact regular 4 by 4 cell centers. Do not add any other symbols. This is an atlas to crop into real UI icons, not a presentation.",
+  "width": 1254,
+  "height": 1254,
+  "latency_ms": 17910,
+  "requested_size": "auto",
+  "resolution": "auto",
+  "file": "weather-glyphs.png",
+  "sha256": "8d3e07ae1b8f97b1ae4d68b2d7f28e5a0609b899303cce1893d44670beddfca3"
+}

@@ -1,0 +1,28 @@
+#pragma code_page(65001)
+1 ICON "assets/qingyu/app-icon.ico"
+1 VERSIONINFO
+ FILEVERSION 0,6,64,0
+ PRODUCTVERSION 0,6,64,0
+ FILEFLAGSMASK 0x3fL
+ FILEFLAGS 0x0L
+ FILEOS 0x40004L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080404b0"
+        BEGIN
+            VALUE "FileDescription", "轻屿"
+            VALUE "InternalName", "Qingyu"
+            VALUE "OriginalFilename", "qingyu.exe"
+            VALUE "ProductName", "轻屿 Qingyu"
+            VALUE "ProductVersion", "0.6.64"
+            VALUE "FileVersion", "0.6.64"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x0804, 1200
+    END
+END

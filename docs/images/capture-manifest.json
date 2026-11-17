@@ -1,0 +1,573 @@
+{
+  "project": "Qingyu",
+  "version": "0.6.68",
+  "prepared_at": "2026-11-17T06:27:54.169759+00:00",
+  "capture_method": "macOS native window screenshots captured through Computer Use",
+  "renderer": "production App rendered by egui/eframe in a native debug showcase window",
+  "data": "isolated examples; no real mail, conversations, credentials, or audio playback",
+  "interface_source": "src/app.rs",
+  "showcase_source": "src/showcase.rs",
+  "postprocessing": "rectangular crop, metadata removal and lossless PNG compression only",
+  "captures": [
+    {
+      "file": "overview.png",
+      "native_window_size": [
+        2000,
+        1696
+      ],
+      "crop": [
+        500,
+        390,
+        1500,
+        1120
+      ],
+      "size": [
+        1000,
+        730
+      ],
+      "native_sha256": "4b4496cea3be4b060995713f7f6cd45efe07a024eea7fe4f0b76a3ea6d254774",
+      "sha256": "45623b11aa19a529cea5cea7bf152cdf547cbef611b2527ea0038bd15a5ed719",
+      "bytes": 416879
+    },
+    {
+      "file": "music.png",
+      "native_window_size": [
+        2000,
+        1696
+      ],
+      "crop": [
+        500,
+        390,
+        1500,
+        1120
+      ],
+      "size": [
+        1000,
+        730
+      ],
+      "native_sha256": "6ba2dc13193f0101ee933c517df3ff3342b3f86eb20e0dd8e1d51869eaa717f8",
+      "sha256": "109331127ab11dbe52022eb2a734aca70cd8bb2835ed376af3f4dc92bb4bec1f",
+      "bytes": 371425
+    },
+    {
+      "file": "playlists.png",
+      "native_window_size": [
+        2000,
+        1696
+      ],
+      "crop": [
+        500,
+        390,
+        1500,
+        1120
+      ],
+      "size": [
+        1000,
+        730
+      ],
+      "native_sha256": "50ce24b6ec9a2651f94193285c65200a732f1ba0762237097947fbdea27e3ef0",
+      "sha256": "5c553546fa998ba9a64387cef26ad31f5620fc037d00caaa478a0e410efca41a",
+      "bytes": 341165
+    },
+    {
+      "file": "shelf.png",
+      "native_window_size": [
+        2000,
+        1696
+      ],
+      "crop": [
+        500,
+        390,
+        1500,
+        1120
+      ],
+      "size": [
+        1000,
+        730
+      ],
+      "native_sha256": "0d47fab0846ed59296e5e0e2cc626c56417ab2f76fd93367dcdf2fba553488d4",
+      "sha256": "986de966fbef03f4149844c399d730857216b47246993561a6e64610420c4e43",
+      "bytes": 348924
+    },
+    {
+      "file": "clipboard.png",
+      "native_window_size": [
+        2000,
+        1696
+      ],
+      "crop": [
+        500,
+        390,
+        1500,
+        1120
+      ],
+      "size": [
+        1000,
+        730
+      ],
+      "native_sha256": "eef264e946271c41d9bc6997c59d0d8ec0437d451b846c10d37c837980c7e410",
+      "sha256": "6f70c113324c4cfd36a784e69fdd135fabffe3e9ad898a4ca14378e934771e68",
+      "bytes": 321247
+    },
+    {
+      "file": "library.png",
+      "native_window_size": [
+        2000,
+        1696
+      ],
+      "crop": [
+        500,
+        390,
+        1500,
+        1120
+      ],
+      "size": [
+        1000,
+        730
+      ],
+      "native_sha256": "e4d5e4e5ac246d55074d74f2bef82683387066caa933169717d76ccb7108fc07",
+      "sha256": "ca878fcf7fac61486b824a8165652243211d9b44bcfa7f8cdf433935a3d66a71",
+      "bytes": 414549
+    },
+    {
+      "file": "library-detail.png",
+      "native_window_size": [
+        2000,
+        1696
+      ],
+      "crop": [
+        500,
+        390,
+        1500,
+        1120
+      ],
+      "size": [
+        1000,
+        730
+      ],
+      "native_sha256": "851129fa0ff006d29f80dba7524c375d71d7b289337cab1c182017e6691241c8",
+      "sha256": "22833ae7271eca41e4a0d18a46b126a7b383a325cd1b550f31c4023f551512d3",
+      "bytes": 355278
+    },
+    {
+      "file": "todos.png",
+      "native_window_size": [
+        2000,
+        1696
+      ],
+      "crop": [
+        500,
+        390,
+        1500,
+        1120
+      ],
+      "size": [
+        1000,
+        730
+      ],
+      "native_sha256": "515ad3e8fd11c03e7aad6ed8aa5f7080ef3f139c4057780f80e335420b7dfa64",
+      "sha256": "68061decf889810c0c4a288ab1970ff27d870f64d8ef53a274bb1c422685afc0",
+      "bytes": 346249
+    },
+    {
+      "file": "mail.png",
+      "native_window_size": [
+        2000,
+        1696
+      ],
+      "crop": [
+        500,
+        390,
+        1500,
+        1120
+      ],
+      "size": [
+        1000,
+        730
+      ],
+      "native_sha256": "2aea8e646615251b11dc48052e9deafffc6f151e96827894a0b71c9c7bc3fa2a",
+      "sha256": "a4ad817e29965acabf1deb6fea8af117a0ea9555f25961ee220cdf5d6fa151a2",
+      "bytes": 370417
+    },
+    {
+      "file": "mail-reader.png",
+      "native_window_size": [
+        2000,
+        1696
+      ],
+      "crop": [
+        500,
+        390,
+        1500,
+        1120
+      ],
+      "size": [
+        1000,
+        730
+      ],
+      "native_sha256": "be8d50289c427280b6c902a1bc6c0c23d355028020a28d0e0fb1b8ce34017510",
+      "sha256": "1b4e199fd950c72c22f08973ebdae1b58d271f6268b3a2b7c8cdfb9801c785cc",
+      "bytes": 338341
+    },
+    {
+      "file": "weather.png",
+      "native_window_size": [
+        2000,
+        1696
+      ],
+      "crop": [
+        500,
+        390,
+        1500,
+        1120
+      ],
+      "size": [
+        1000,
+        730
+      ],
+      "native_sha256": "121dc90c218a2d3831b84d039ff4e349293736a03a5b3435b9ee67454b4a2ca6",
+      "sha256": "b7446b4bead792ae027e30995833a62aff64f682a18f66c225bba8f32ab414b5",
+      "bytes": 438381
+    },
+    {
+      "file": "sunlight.png",
+      "native_window_size": [
+        2000,
+        1696
+      ],
+      "crop": [
+        500,
+        390,
+        1500,
+        1120
+      ],
+      "size": [
+        1000,
+        730
+      ],
+      "native_sha256": "ee4c45761f261a14d93efd91efac0597b810a127e349c4b02b937d7c16dbe6fd",
+      "sha256": "09fe84b8e6848f26fad185879412314fe387ccf5a0c4ff25403dad4025bb1e63",
+      "bytes": 395043
+    },
+    {
+      "file": "agents.png",
+      "native_window_size": [
+        2000,
+        1696
+      ],
+      "crop": [
+        500,
+        390,
+        1500,
+        1120
+      ],
+      "size": [
+        1000,
+        730
+      ],
+      "native_sha256": "5dac5c6d0c87b47a2262e6ada38fe27eb1a3d514d42c935e756a8a18eb72ec01",
+      "sha256": "522e8c7306db373eafe349f4834567492c38f7fa170b97f8c0282f0e5c1e5bf4",
+      "bytes": 364358
+    },
+    {
+      "file": "mac-stats.png",
+      "native_window_size": [
+        2000,
+        1696
+      ],
+      "crop": [
+        500,
+        390,
+        1500,
+        1120
+      ],
+      "size": [
+        1000,
+        730
+      ],
+      "native_sha256": "5ae7067f5051a833fabf656ef56e9188702ca1ad9a49bf78793a3f4c8882fddc",
+      "sha256": "9de0697e37cedb64d85e7cbc24d28bd69969e6d7a7958204a826205c22ec34be",
+      "bytes": 370120
+    },
+    {
+      "file": "notifications.png",
+      "native_window_size": [
+        2000,
+        1696
+      ],
+      "crop": [
+        500,
+        390,
+        1500,
+        1120
+      ],
+      "size": [
+        1000,
+        730
+      ],
+      "native_sha256": "fc7df906ad2068f649e296295418ec17515f359c0dcb23ed98751aa9944212cb",
+      "sha256": "deec471a30b5f22e705814082d23f52c3736753dda70d3de161a01c4aa9c670e",
+      "bytes": 340831
+    },
+    {
+      "file": "notice.png",
+      "native_window_size": [
+        2000,
+        1696
+      ],
+      "crop": [
+        500,
+        390,
+        1500,
+        650
+      ],
+      "size": [
+        1000,
+        260
+      ],
+      "native_sha256": "ea9dbf97e77e0646d8f354d7de9d4665f94322c0b3dd56245a825175efe8941e",
+      "sha256": "54c984cc3d2774cf0f81d6dc7a2bdb43e5ec1a12eab34ece62e86b34a5eff73d",
+      "bytes": 155546
+    },
+    {
+      "file": "collapsed.png",
+      "native_window_size": [
+        2000,
+        1696
+      ],
+      "crop": [
+        500,
+        390,
+        1500,
+        540
+      ],
+      "size": [
+        1000,
+        150
+      ],
+      "native_sha256": "61dc6a5f72d43425b6a1c27cd406d453e861d6802d046d979c648523cecb608a",
+      "sha256": "3fe1a2499706b9941fe0931ddd5aa657e3650a470f3bbd506b536dff7edda5b9",
+      "bytes": 91647
+    },
+    {
+      "file": "top-overview.png",
+      "native_window_size": [
+        2000,
+        1696
+      ],
+      "crop": [
+        500,
+        390,
+        1500,
+        1120
+      ],
+      "size": [
+        1000,
+        730
+      ],
+      "native_sha256": "343dba7c27b179d1cea286440956b6a7c45aabdc4376eb31f74f2c8a1cbfd06c",
+      "sha256": "e33391c6080bcffb0c4f1f5613fd743b57b723aa0e6b86e29520a639c6d5c84e",
+      "bytes": 416220
+    },
+    {
+      "file": "settings.png",
+      "native_window_size": [
+        1560,
+        1296
+      ],
+      "crop": [
+        0,
+        0,
+        1560,
+        1296
+      ],
+      "size": [
+        1560,
+        1296
+      ],
+      "native_sha256": "ce9dc17a1ea9c0964c5a28dd7d05a2605547de77ea2611a3c222a27943b6b1cb",
+      "sha256": "2d71055bee4f0209c57b91ca398ad893c5783aa2550f6705f73d6481f7873e2e",
+      "bytes": 430127
+    },
+    {
+      "file": "modules.png",
+      "native_window_size": [
+        1560,
+        1296
+      ],
+      "crop": [
+        0,
+        0,
+        1560,
+        1296
+      ],
+      "size": [
+        1560,
+        1296
+      ],
+      "native_sha256": "69719a2bb9ca42f356787acd9b00ab8adb4f2b48e3e8455e442dfdbedd42da4e",
+      "sha256": "8d7c9e14e1ce941240a5032c3f5ff4225c71f198438f25dbefb987b575cbc1eb",
+      "bytes": 276316
+    },
+    {
+      "file": "pets.png",
+      "native_window_size": [
+        1560,
+        1296
+      ],
+      "crop": [
+        0,
+        0,
+        1560,
+        1296
+      ],
+      "size": [
+        1560,
+        1296
+      ],
+      "native_sha256": "9b400c3cd07a52482da88e256ee215d27ad8f0024f0d83670dd526c7a864df8e",
+      "sha256": "1a8b1f85adf15648145f4f6348faf5631bb1d9dd722f5fc5008f69f6a01e7124",
+      "bytes": 363026
+    },
+    {
+      "file": "completion.png",
+      "native_window_size": [
+        2000,
+        1696
+      ],
+      "crop": [
+        500,
+        390,
+        1500,
+        650
+      ],
+      "size": [
+        1000,
+        260
+      ],
+      "native_sha256": "55d71e3ba939aa607c21b03cd6f5739192f959ff69173bbb908d63b25012c9ee",
+      "sha256": "b193ba510e0b18280d9d8e6402d16b50d413dfef2f9f3b165833ea5994f10c0e",
+      "bytes": 160996
+    },
+    {
+      "file": "side-overview.png",
+      "native_window_size": [
+        2000,
+        1696
+      ],
+      "crop": [
+        480,
+        190,
+        1300,
+        1515
+      ],
+      "size": [
+        820,
+        1325
+      ],
+      "native_sha256": "49d8be91dc85cca780ddef734acb9e289a4c629f860e76b11052cb0cb8cc602b",
+      "sha256": "5d05bd5148cda32a447561c7d58b7a40b3ddcdb2ac6e6ea11e12bc02e05ccd63",
+      "bytes": 392070
+    },
+    {
+      "file": "style-classic.png",
+      "native_window_size": [
+        2000,
+        1696
+      ],
+      "crop": [
+        500,
+        390,
+        1500,
+        1120
+      ],
+      "size": [
+        1000,
+        730
+      ],
+      "native_sha256": "e39ec5027ef6b3908dd6e0502afdf39f046112470b7a5229bc116bd99885d28c",
+      "sha256": "d575f99fbd93db331d68319ebe8f4cc607eaee879953a9b622f45a10d24b6518",
+      "bytes": 347161
+    },
+    {
+      "file": "style-cream.png",
+      "native_window_size": [
+        2000,
+        1696
+      ],
+      "crop": [
+        500,
+        390,
+        1500,
+        1120
+      ],
+      "size": [
+        1000,
+        730
+      ],
+      "native_sha256": "e0d0d310fed826324535e37ca124b6ec76a6c88d3fc8ccf5434d2013748047ef",
+      "sha256": "07719d350d2cfd1b5cbb3471407e93588cf307e4c1c2b996385304ba807572f2",
+      "bytes": 342695
+    },
+    {
+      "file": "style-fluid.png",
+      "native_window_size": [
+        2000,
+        1696
+      ],
+      "crop": [
+        500,
+        390,
+        1500,
+        1120
+      ],
+      "size": [
+        1000,
+        730
+      ],
+      "native_sha256": "ba9caac58dbf80603bfe7bcf0c03ed25cf0f1f7cad04829ba21b6eda48ce78f6",
+      "sha256": "d82192a50af8e21369d608a9ab8bb02e5a0461caa3e44308b39ffea62d7a25c9",
+      "bytes": 414189
+    },
+    {
+      "file": "style-glass-light.png",
+      "native_window_size": [
+        2000,
+        1696
+      ],
+      "crop": [
+        500,
+        390,
+        1500,
+        1120
+      ],
+      "size": [
+        1000,
+        730
+      ],
+      "native_sha256": "752511274e129e4547226d33785da6d16d50139fd20525d4f916e3a882c1dc16",
+      "sha256": "b4968abe9dea203428ec3f41b4ff11e580051676d3b2b6f8bfaa49d99b9513cd",
+      "bytes": 301449
+    },
+    {
+      "file": "style-glass-dark.png",
+      "native_window_size": [
+        2000,
+        1696
+      ],
+      "crop": [
+        500,
+        390,
+        1500,
+        1120
+      ],
+      "size": [
+        1000,
+        730
+      ],
+      "native_sha256": "fe105e29fe52b43857787c787af751f965f97802b2f82b0e684504c957ebc2cd",
+      "sha256": "9835253899296f4e9df7e9f2655c6c3922bf19a56f6ad4f5c7742446ffe0ee31",
+      "bytes": 396479
+    }
+  ]
+}

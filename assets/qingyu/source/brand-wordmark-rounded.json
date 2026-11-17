@@ -1,0 +1,15 @@
+{
+  "provider": "AnyiOS",
+  "profile_id": "d7e83841401e474f8edc534a6f3ebd94",
+  "profile_name": "Sub2API ChatGPT Free",
+  "model": "gpt-image-2",
+  "request_mode": "chatgpt_web",
+  "prompt": "Use case: logo-brand. Asset type: transparent Chinese wordmark for the native macOS app 轻屿. Text (verbatim): 轻屿. Exactly TWO simplified Chinese characters, 轻 followed by 屿, and nothing else. Regenerate the lettering in a delightful rounded Chinese display sans style: chubby softly rounded stroke terminals, generous open counters, smooth flowing joins, balanced near-monoline weight, gently compact proportions and a friendly cute personality. Preserve the correct simplified character structures and every essential stroke. This is polished professional rounded lettering that remains instantly legible at a 24-point sidebar-header size. No brush calligraphy, no sharp serif, no handwritten scribble. Flat single deep ocean-teal ink, crisp edges, no texture, no 3D, no glow, no outlines, no background. Horizontal two-character composition, optically centered with small even margins, wide landscape frame. Output a PNG with genuine transparent alpha, including the counters between strokes. No opaque rectangle, paper, tile, painted checkerboard, English letters, slogan, seal, signature, mascot, or watermark. Output only the two rounded Chinese characters.",
+  "width": 1536,
+  "height": 1024,
+  "latency_ms": 24709,
+  "requested_size": "auto",
+  "resolution": "auto",
+  "file": "brand-wordmark-rounded.png",
+  "sha256": "84a3c82b4af4993f0663ad10c0677bab2db24d1d0d499df7ae1801b606376ded"
+}

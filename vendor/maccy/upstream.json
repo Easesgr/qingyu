@@ -1,0 +1,11 @@
+{
+  "repository": "https://github.com/p0deje/Maccy",
+  "revision": "f0b571e32e4031d7b91ba811f50d0f33e8e5548b",
+  "license": "MIT",
+  "files_sha256": {
+    "Maccy/Clipboard.swift": "8459e14889c13867b120f6f3376255566df103b14872fddcd7c8aa80da341622",
+    "Maccy/Extensions/NSPasteboard.PasteboardType+Types.swift": "48bdbfbf0d7a7240363148cb109f14cc79dc46b3889f9b6ad8e013e87cae8966",
+    "Maccy/Extensions/Defaults.Keys+Names.swift": "59253e329edc65222995cac5ce7b7d70cfb8e5a2c969eafaf975f939baa42447",
+    "MaccyTests/ClipboardTests.swift": "bc61ff3fa6d0c061170d1ccc6b3be0dab2e8ad6e30caf462083daf74832f3f82"
+  }
+}

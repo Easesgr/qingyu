@@ -1,0 +1,15 @@
+{
+  "provider": "AnyiOS",
+  "profile_id": "d7e83841401e474f8edc534a6f3ebd94",
+  "profile_name": "Sub2API ChatGPT Free",
+  "model": "gpt-image-2",
+  "request_mode": "chatgpt_web",
+  "prompt": "Use case: logo-brand. Deliver a single original production macOS app icon for Qingyu (Chinese name 轻屿), a quiet utility that lives at the right edge of a Mac screen. Square image, icon facing straight forward, no perspective presentation or mockup. A beautifully simple geometric floating island: two offset softly rounded lozenge planes, one pearl-white and one ocean teal, separated by a clear narrow air gap. The top plane has a subtle cut or fold that feels light, memorable, precise. Dark ink-blue accent only where needed. Restrained mineral cyan, soft ivory, deep ocean teal. Place the emblem large and centered inside a very pale ice-blue macOS rounded square, with restrained depth and impeccable optical balance. Rounded square occupies 90% of the image, surrounded by pure white. Crisp clean silhouette, readable at 16 pixels. Match Apple's polished calm material and geometric app icon craft; no Apple logo. Avoid landscapes, text, letters, faces, characters, orbit rings, busy gradients, neon, elaborate shadows, and decorative sparkles. No labels, no watermark. Output only the icon artwork.",
+  "width": 1254,
+  "height": 1254,
+  "latency_ms": 21095,
+  "requested_size": "auto",
+  "resolution": "auto",
+  "file": "app-icon.png",
+  "sha256": "c29f455ad50f616563b6dab0637189e73a9ea2658eb78162dcb6dadc98822b30"
+}

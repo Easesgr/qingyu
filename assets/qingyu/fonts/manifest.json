@@ -1,0 +1,23 @@
+{
+  "family": "Resource Han Rounded CN",
+  "version": "0.990",
+  "source": "https://github.com/CyanoHao/Resource-Han-Rounded/releases/tag/v0.990",
+  "download": "https://github.com/CyanoHao/Resource-Han-Rounded/releases/download/v0.990/RHR-CN-0.990.7z",
+  "archive_sha256": "e7005f7b4a7a0b8352d32c4a1358ff47564eb73be7fdb2db00d9f792755e9dc7",
+  "license": "SIL Open Font License 1.1",
+  "derivation": "None; original release font bytes, embedded in application",
+  "files": {
+    "ResourceHanRoundedCN-Bold.ttf": {
+      "bytes": 13978508,
+      "sha256": "f713907a21a10701cd68a7ce3e345ccdce46c789e1809d65ace54e095d7107c3"
+    },
+    "ResourceHanRoundedCN-Medium.ttf": {
+      "bytes": 14423652,
+      "sha256": "b2ec1727fbc04b70255db6cb71be0eca3b7a7167ef11655059c5576cc920143f"
+    },
+    "ResourceHanRoundedCN-Regular.ttf": {
+      "bytes": 14663464,
+      "sha256": "1c5c623f008eabef10c45135a48b01b46311f9369c28857355872cfe05f48dc0"
+    }
+  }
+}

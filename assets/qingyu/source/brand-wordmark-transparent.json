@@ -1,0 +1,15 @@
+{
+  "provider": "AnyiOS",
+  "profile_id": "d7e83841401e474f8edc534a6f3ebd94",
+  "profile_name": "Sub2API ChatGPT Free",
+  "model": "gpt-image-2",
+  "request_mode": "chatgpt_web",
+  "prompt": "Use case: logo-brand. Asset type: transparent Chinese artistic wordmark for a native macOS utility. Text (verbatim): 轻屿. Exactly these TWO simplified Chinese characters, 轻 followed by 屿; no other text. Design refined contemporary Chinese calligraphic display lettering: light flowing strokes, measured thick-to-thin contrast, open counters, graceful geometric terminals, and a restrained natural rhythm. Artistic yet immediately legible at a small sidebar-header size. Keep the correct character structure and full strokes, no merging that changes the words. Single deep ocean-teal ink color, a flat clean silhouette, no bevel or texture. Horizontal two-character composition, optically centered, wide landscape frame, very small even margins. The wordmark must harmonize with an elegant two-plane geometric island emblem and Apple's quiet interface typography. Output a PNG with genuinely transparent alpha background. No opaque rectangle, paper, tiles, background color, checkerboard painted into the image, scenery, Latin letters, slogan, signature, seal or watermark. Output only the two-character artistic lettering.",
+  "width": 1536,
+  "height": 1024,
+  "latency_ms": 27624,
+  "requested_size": "auto",
+  "resolution": "auto",
+  "file": "brand-wordmark-transparent.png",
+  "sha256": "b733094abe0e624c42a8bf68e15b1459e35dfbd1ddc3e0d6eec20336be99e65c"
+}

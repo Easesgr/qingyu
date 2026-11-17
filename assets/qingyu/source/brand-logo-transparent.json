@@ -1,0 +1,15 @@
+{
+  "provider": "AnyiOS",
+  "profile_id": "d7e83841401e474f8edc534a6f3ebd94",
+  "profile_name": "Sub2API ChatGPT Free",
+  "model": "gpt-image-2",
+  "request_mode": "chatgpt_web",
+  "prompt": "Use case: logo-brand. Asset type: transparent brand emblem for the sidebar header of a native macOS app named 轻屿 / Qingyu. Regenerate an original, beautifully simple geometric floating island emblem: two offset softly rounded lozenge planes, one pearl-white and one ocean teal, separated by a clean narrow air gap. A subtle fold in the upper plane creates a light, memorable silhouette. Restrained mineral cyan, pearl white and deep ocean teal, gentle material depth, precise optical balance. Front-facing emblem only, centered and large in a square frame with comfortable transparent margins. Readable at 32 pixels. Output a PNG with a genuinely transparent alpha background, including the gap between the two planes. No surrounding app-icon tile, no rounded-square backing, no white rectangle, no background color, no checkerboard drawn into the artwork, no cast shadow outside the emblem. No text, letters, Apple logo, other logos, scenery, sparkles or watermark. Calm polished Apple-compatible visual craft. Output only the isolated emblem artwork.",
+  "width": 1254,
+  "height": 1254,
+  "latency_ms": 26755,
+  "requested_size": "auto",
+  "resolution": "auto",
+  "file": "brand-logo-transparent.png",
+  "sha256": "b09458071c402cf83c6adced3f6324eebd5f4e4c01da8d56d94b4e8f40812118"
+}
