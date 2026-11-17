@@ -77,7 +77,7 @@ fn main()->eframe::Result<()> {
     eframe::run_native("轻屿连续切歌检查",options,Box::new(move|cc|{
         cc.egui_ctx.set_pixels_per_point(1.0);
         if let Some(gl)=&cc.gl{use eframe::glow::HasContext;println!("renderer={}",unsafe{gl.get_parameter_string(eframe::glow::RENDERER)});}
-        let app=App::new(&cc.egui_ctx,Options{fetch_lyrics:false});let native=qingyu::native::Window::new(cc).unwrap();
+        let app=App::new(&cc.egui_ctx,Options{fetch_lyrics:false,monitor_agents:false});let native=qingyu::native::Window::new(cc).unwrap();
         Ok(Box::new(Probe{app,native,start:Instant::now(),frame_at:Instant::now(),lyrics,song:usize::MAX,artwork:Arc::new(egui::ColorImage::new([1,1],egui::Color32::WHITE)),mode,seconds,frames:0,next_sample:0.0,baseline:None,peak:0,active_frames:0}))
     }))
 }
